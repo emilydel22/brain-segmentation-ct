@@ -80,6 +80,11 @@ These values were extracted directly from the segmented region to quantify anato
 📄 Full dataset available here: [segment_statistics.tsv](segment_statistics.tsv)
 
 ---
+### Notes
+- Measured brain volume falls within physiologically reasonable range for adult human brain volume (~1200–1400 cm³).
+- Slight underestimation may be due to segmentation boundaries and CT resolution limitations.
+
+---
 ## 📄 License
 
 This project is released under the MIT License.
