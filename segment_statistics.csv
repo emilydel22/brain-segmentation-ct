@@ -1,0 +1,2 @@
+Segment,Voxel count (LM),Volume mm3 (LM),Volume cm3 (LM),Voxel count (SV),Volume mm3 (SV),Volume cm3 (SV),Minimum,Maximum,Mean,Standard deviation,Percentile 5,Percentile 95,Median,Surface mm2,Volume mm3 (CS),Volume cm3 (CS)
+Brain,462809,1.1112E+06,1111.2,462809,1.1112E+06,1111.2,-969.946,1302.32,30.8278,85.7003,-1.05477,84.0287,15.9498,66766.7,1.11025E+06,1110.25
