@@ -66,7 +66,20 @@ This workflow demonstrates skills relevant to:
 - 3D reconstruction from volumetric data  
 
 ---
+## 📊 Quantitative Analysis
 
+Brain segmentation was analyzed using 3D Slicer’s Segment Statistics module.
+
+### Key Metrics
+- Volume: **1,111,200 mm³** (1111.2 cm³)
+- Voxel Count: **462,809**
+- Mean Intensity: **30.83**
+
+These values were extracted directly from the segmented region to quantify anatomical structure from CT imaging.
+
+📄 Full dataset available here: [segment_statistics.tsv](segment_statistics.tsv)
+
+---
 ## 📄 License
 
 This project is released under the MIT License.
